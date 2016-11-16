@@ -1,7 +1,39 @@
 html {
   box-sizing: border-box;
+  font font-family: Open sans, sans serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+
+}
+
+h1 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+h2 {
+  padding-left: .75rem;
+  margin-top: 2em;
+  font-size: .875rem;
+}
+
+i {
+  font-size: .875rem;
+  padding-left: .75rem;
+  margin: 0;
+}
+
+img {
+  width: 100px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
 }
