@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font font-family: Open Sans, Sans serif;
+  font-family: Open Sans, Sans serif;
   line-height: 1.5;
 }
 
@@ -39,7 +39,7 @@ img {
   display: block;
   margin: 0 auto;
   margin-top: 10px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 p {
