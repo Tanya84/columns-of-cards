@@ -28,7 +28,7 @@ h2 {
   font-weight: bold;
 }
 
-i {
+h3 {
   font-size: .875rem;
   padding-left: .75rem;
   margin: 0;
@@ -69,8 +69,6 @@ div {
 .btn-small {
   font-size: .875rem;
 }
-
-
 
 .one {
   background-color: #e2e2e2;
