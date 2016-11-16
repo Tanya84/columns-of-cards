@@ -23,6 +23,7 @@ h2 {
   padding-left: .75rem;
   margin-top: 2em;
   font-size: .875rem;
+  margin: 0;
 }
 
 i {
@@ -48,6 +49,7 @@ p {
 div {
   float: left;
   display: inline-block;
+  height: 420px;
   width: 25%;
   border-left: 1px solid #333;
 }
