@@ -1,7 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: Open Sans, Sans serif;
-  line-height: 1.5;
+  font-family: "Open Sans", "Sans serif";
 }
 
 *, *::before, *::after {
@@ -23,9 +22,10 @@ h1 {
 
 h2 {
   padding-left: .75rem;
-  margin-top: 2em;
   font-size: .875rem;
   margin: 0;
+  margin-top: 2em;
+  font-weight: bold;
 }
 
 i {
@@ -39,12 +39,10 @@ img {
   display: block;
   margin: 0 auto;
   margin-top: 10px;
-  margin-bottom: 10px;
 }
 
 p {
   margin-top: 0;
-  padding-top: .25rem;
   margin-bottom: 3rem;
   padding-left: .75rem;
 }
@@ -65,6 +63,7 @@ div {
   border-radius: 8px;
   margin-left: 1em;
   padding: .65rem;
+  margin-bottom: 3rem;
 }
 
 .btn-small {
